@@ -19,11 +19,6 @@ h1{
 
 
 .flatiron{
-  background-image: url(C:\Users\USER\Documents\Sue\web development\projects\Broadway\resources\images\the-flatiron-building.png);
-}
-
-
-.flatiron{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
@@ -47,4 +42,16 @@ h3{
 #subtext{
   font-size: 14px;
   font-weight: normal;
+}
+
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+
+
+em{
+  font-size: 11px;
+  font-weight: normal;
+  font-style: normal;
 }
